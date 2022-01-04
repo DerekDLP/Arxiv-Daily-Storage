@@ -1,0 +1,23 @@
+Graph Neural Network:
+  GNN:
+    historyCount: 0
+    query: (all:Graph+OR+all:graph)+AND+(all:neural+OR+all:Neural)+AND+(all:network+OR+all:Network)
+NLP:
+  Fake News:
+    historyCount: 0
+    query: ((all:fake+OR+all:Fake)+AND+(all:News+OR+all:news))+OR+all:rumour+OR+all:Rumour
+Transfer Learning:
+  Transfer Learning:
+    historyCount: 0
+    query: ((all:transfer+OR+all:Transfer)+AND+(all:learning+OR+all:Learning))+OR+((all:transfer+OR+all:Transfer)+AND+(all:Machine+OR+all:machine)+AND+(all:learning+OR+all:Learning))
+Transformer:
+  Transformer:
+    historyCount: 0
+    query: all:Transformer+OR+all:transformer
+  Vision Transformer:
+    historyCount: 0
+    query: ((all:vision+OR+all:Vision)+AND+(all:transformer+OR+all:Transformer))
+Unsupervised Learning:
+  Unsupervised Learning:
+    historyCount: 0
+    query: (all:unsupervised+OR+all:Unsupervised)+AND+(all:learning+OR+all:Learning)
