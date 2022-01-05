@@ -205,36 +205,29 @@ def data_to_md(cur_date: str, data: dict, topic: str, subtopic: str):
     """
     if not data:
         return
-    count = 1
     suffix = 0
-    if len(data) > 1000:
-        count = int(len(data) / 1000) + 1
-    
-    while (suffix < count):
-        cur = 1000
-        # sort papers by date
-        day_content = sort_papers(data)
-        for _, v in day_content.items():
-            if cur == 1000:
-                suffix += 1
-                md_filename = "mds/[{}]{}-{}({}).md".format(topic, subtopic, cur_date, suffix)
-                cur = 0
-                f = open(md_filename, "w+", encoding='utf-8')
-                f.write("## [" + topic + "]" + subtopic + " \n\n")
-                # the head of each part
-                f.write(f"### {subtopic}\n\n")
+    cur = 1000
+    # sort papers by date
+    day_content = sort_papers(data)
+    for _, v in day_content.items():
+        if cur == 1000:
+            suffix += 1
+            md_filename = "mds/[{}]{}-{}({}).md".format(topic, subtopic, cur_date, suffix)
+            cur = 0
+            f = open(md_filename, "w+", encoding='utf-8')
+            f.write("## [" + topic + "]" + subtopic + " \n\n")
+            # the head of each part
+            f.write(f"### {subtopic}\n\n")
 
-                f.write("| submit | update | title | author | abs | PDF | code | cates | journal |\n" +
-                    "|---|---|---|---|---|---|---|---|---|\n")
+            f.write("| submit | update | title | author | abs | PDF | code | cates | journal |\n" +
+                "|---|---|---|---|---|---|---|---|---|\n")
 
-            if v is not None:
-                # print(type(v), v)
-                f.write(v)
-                f.write(f"\n")
-                cur += 1
-        break
+        if v is not None:
+            # print(type(v), v)
+            f.write(v)
+            cur += 1
 
-    print("add md file finished")
+    print("add md file finished（{}）".format(len(data)))
 
 def data_to_excel(cur_date: str, data: dict, topic: str, subtopic: str):
     """

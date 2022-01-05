@@ -1,4 +1,4 @@
 NLP:
   Fake News:
-    historyCount: 987
+    historyCount: 0
     query: ((all:fake+OR+all:Fake)+AND+(all:News+OR+all:news))+OR+all:rumour+OR+all:Rumour
