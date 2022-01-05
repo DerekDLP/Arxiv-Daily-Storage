@@ -226,6 +226,8 @@ def data_to_md(cur_date: str, data: dict, topic: str, subtopic: str):
             # print(type(v), v)
             f.write(v)
             cur += 1
+            if cur == 1000:
+                f.close()
 
     print("add md file finished（{}）".format(len(data)))
 

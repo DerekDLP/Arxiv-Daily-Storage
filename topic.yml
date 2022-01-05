@@ -6,3 +6,7 @@ Transfer Learning:
   Transfer Learning:
     historyCount: 10724
     query: ((all:transfer+OR+all:Transfer)+AND+(all:learning+OR+all:Learning))+OR+((all:transfer+OR+all:Transfer)+AND+(all:Machine+OR+all:machine)+AND+(all:learning+OR+all:Learning))
+Transformer:
+  Transformer:
+    historyCount: 0
+    query: all:Transformer+OR+all:transformer
