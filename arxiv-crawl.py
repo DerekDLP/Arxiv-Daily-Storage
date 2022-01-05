@@ -205,14 +205,13 @@ def data_to_md(cur_date: str, data: dict, topic: str, subtopic: str):
     """
     if not data:
         return
-    count = 0
+    count = 1
     suffix = 0
     if len(data) > 1000:
         count = int(len(data) / 1000) + 1
     
     while (suffix < count):
         cur = 1000
-
         # sort papers by date
         day_content = sort_papers(data)
         for _, v in day_content.items():
