@@ -216,6 +216,7 @@ def data_to_md(cur_date: str, data: dict, topic: str, subtopic: str):
         day_content = sort_papers(data)
         for _, v in day_content.items():
             if cur == 1000:
+                suffix += 1
                 md_filename = "mds/[{}]{}-{}({}).md".format(topic, subtopic, cur_date, suffix)
                 cur = 0
                 f = open(md_filename, "w+", encoding='utf-8')
@@ -231,6 +232,7 @@ def data_to_md(cur_date: str, data: dict, topic: str, subtopic: str):
                 f.write(v)
                 f.write(f"\n")
                 cur += 1
+        break
 
     print("add md file finished")
 
