@@ -198,89 +198,67 @@ def get_daily_papers(topic: str, subtopic: str, query: str = "fake news", histor
     return content, flag, excel_data, diff
 
 
-def data_to_md(md_filename: str, data: dict, topic: str, subtopic: str, first=True):
+def data_to_md(cur_date: str, data: dict, topic: str, subtopic: str):
     """
     @param md_filename: str
     @return None
     """
     if not data:
         return
-    if first:
-        with open(md_filename, "w+", encoding='utf-8') as f:
-            f.write("## [" + topic + "]" + subtopic + " \n\n")
-            # the head of each part
-            f.write(f"### {subtopic}\n\n")
+    count = 0
+    suffix = 0
+    if len(data) > 1000:
+        count = int(len(data) / 1000) + 1
+    
+    while (suffix < count):
+        cur = 1000
 
-            f.write("| submit | update | title | author | abs | PDF | code | cates | journal |\n" +
+        # sort papers by date
+        day_content = sort_papers(data)
+        for _, v in day_content.items():
+            if cur == 1000:
+                md_filename = "mds/[{}]{}-{}({}).md".format(topic, subtopic, cur_date, suffix)
+                cur = 0
+                f = open(md_filename, "w+", encoding='utf-8')
+                f.write("## [" + topic + "]" + subtopic + " \n\n")
+                # the head of each part
+                f.write(f"### {subtopic}\n\n")
+
+                f.write("| submit | update | title | author | abs | PDF | code | cates | journal |\n" +
                     "|---|---|---|---|---|---|---|---|---|\n")
 
-            # sort papers by date
-            day_content = sort_papers(data)
-
-            for _, v in day_content.items():
-                if v is not None:
-                    # print(type(v), v)
-                    f.write(v)
-
-            f.write(f"\n")
-    else:
-    # write data into README.md
-        with open(md_filename, "a+", encoding='utf-8') as f:
-            for topic in data.keys():
-                # sort papers by date
-                day_content = sort_papers(data)
-
-                for _, v in day_content.items():
-                    if v is not None:
-                        f.write(v)
-
+            if v is not None:
+                # print(type(v), v)
+                f.write(v)
                 f.write(f"\n")
+                cur += 1
 
     print("add md file finished")
 
-def data_to_excel(excel_filename: str, data: dict, first=True):
+def data_to_excel(cur_date: str, data: dict, topic: str, subtopic: str):
     """
     @param excel_filename: str
     @return None
     """
     if not data:
         return
-    if first:
-        new_df = pd.DataFrame(data, columns=[
-            'uuid',
-            '提交日期',
-            '更新日期',
-            '标题',
-            '作者',
-            '摘要',
-            '发表',
-            '归类',
-            'abs',
-            'PDF',
-            '代码',
-            '主题',
-            '子主题'
-        ])
-        new_df.to_excel(excel_filename, index=False)
-    else:
-        old_df = pd.read_excel(excel_filename, sheet_name='Sheet1')
-        new_df = pd.DataFrame(data, columns=[
-            'uuid',
-            '提交日期',
-            '更新日期',
-            '标题',
-            '作者',
-            '摘要',
-            '发表',
-            '归类',
-            'abs',
-            'PDF',
-            '代码',
-            '主题',
-            '子主题'
-        ])
-        merge_df = pd.concat([new_df, old_df])
-        merge_df.to_excel(excel_filename, index=False)
+    excel_filename = "csvs/[{}]{}-{}.xlsx".format(topic, subtopic, cur_date)
+    new_df = pd.DataFrame(data, columns=[
+        'uuid',
+        '提交日期',
+        '更新日期',
+        '标题',
+        '作者',
+        '摘要',
+        '发表',
+        '归类',
+        'abs',
+        'PDF',
+        '代码',
+        '主题',
+        '子主题'
+    ])
+    new_df.to_excel(excel_filename, index=False)
 
     print("add excel file finished")
 
@@ -312,11 +290,10 @@ if __name__ == "__main__":
                     data_collector[topic] = {}
 
                 if data:
+                    cur_date = str(datetime.date.today())
                     data_collector[topic].update(data)
-                    md_file = "mds/[{}]{}.md".format(topic, subtopic)
-                    data_to_md(md_file, data, topic, subtopic, keywordInfo["historyCount"])
-                    excel_file = "all.xlsx"
-                    data_to_excel(excel_file, excel_data, False)
+                    data_to_md(cur_date, data, topic, subtopic)
+                    data_to_excel(cur_date, excel_data, topic, subtopic)
                 set_subtopic_historyCount(topic, subtopic, diff, yaml_path)
                 print(f"[{subtopic}] updated: {len(data)}")
             else:
