@@ -67,6 +67,7 @@ def getResult(search_query='all:fake+news+OR+all:rumour', start=0, history_resul
     url = 'http://export.arxiv.org/api/query?search_query={}&start={}&max_results={}&sortBy={}&sortOrder={}'.format(
         search_query, start, diff, sortBy, sortOrder
     )
+    print(url)
     data = libreq.urlopen(url)
     xml_data = data.read()
     DOMTree = parseString(xml_data)
