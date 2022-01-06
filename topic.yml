@@ -4,5 +4,5 @@ NLP:
     query: ((all:fake+OR+all:Fake)+AND+(all:News+OR+all:news))+OR+all:rumour+OR+all:Rumour
 Transformer:
   Transformer:
-    historyCount: 84276
+    historyCount: 84298
     query: all:Transformer+OR+all:transformer
