@@ -11,5 +11,5 @@
 - 抓取内容
 
 ### 3.2. GitHub Actions
-- [同步配置说明]()
+- [同步配置流程](https://mp.weixin.qq.com/s/ubZUMb-vx_dz3J0vTguqcg)
 - 定时配置 TODO
