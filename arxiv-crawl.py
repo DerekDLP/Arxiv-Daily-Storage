@@ -208,8 +208,8 @@ def data_to_md(cur_date: str, data: dict, topic: str, subtopic: str):
         return
     suffix = 0
     cur = 1000
-    # sort papers by date
-    day_content = sort_papers(data)
+    # cancel sort papers by date
+    day_content = data # sort_papers(data)
     for _, v in day_content.items():
         if cur == 1000:
             suffix += 1
@@ -224,7 +224,6 @@ def data_to_md(cur_date: str, data: dict, topic: str, subtopic: str):
                 "|---|---|---|---|---|---|---|---|---|\n")
 
         if v is not None:
-            # print(type(v), v)
             f.write(v)
             cur += 1
             if cur == 1000:
@@ -281,7 +280,6 @@ if __name__ == "__main__":
                 print(f'CANNOT get {subtopic} data from arxiv')
                 data = None
                 flag = False
-#             # time.sleep(random.randint(2, 10))
             if flag:
                 if not topic in data_collector.keys():
                     data_collector[topic] = {}
