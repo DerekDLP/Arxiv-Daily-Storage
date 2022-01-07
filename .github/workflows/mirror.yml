@@ -1,6 +1,7 @@
 name: 'GitHub Actions Mirror'
 
 on: 
+  workflow_dispatch:
   workflow_run:
     workflows: ["Run Arxiv Crawl Daily"]
     branches: [ main ]
