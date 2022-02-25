@@ -1,0 +1,8 @@
+## [NLP]Fake News 
+
+### Fake News
+
+| submit | update | title | author | abs | PDF | code | cates | journal |
+|---|---|---|---|---|---|---|---|---|
+|**2022-02-22 11:05:09**|**2022-02-22 11:05:09**|**From agent-based models to the macroscopic description of fake-news   spread: the role of competence in data-driven applications**|Jonathan Franceschi et.al.(3)|[2202.10809v1](http://arxiv.org/abs/2202.10809v1)|[gotoRead](http://arxiv.org/pdf/2202.10809v1)|null|physics.soc-ph|null|
+|**2022-02-21 15:46:58**|**2022-02-21 15:46:58**|**Reducing the Gibbs effect in multimodal medical imaging by the Fake   Nodes Approach**|Davide Poggiali et.al.(3)|[2202.10325v1](http://arxiv.org/abs/2202.10325v1)|[gotoRead](http://arxiv.org/pdf/2202.10325v1)|**[link](https://github.com/pog87/fakeresampling3d)**|math.NA, cs.CV, cs.NA, 68U10, 65D05, 41A15|null|

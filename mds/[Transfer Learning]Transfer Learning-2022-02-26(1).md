@@ -1,0 +1,16 @@
+## [Transfer Learning]Transfer Learning 
+
+### Transfer Learning
+
+| submit | update | title | author | abs | PDF | code | cates | journal |
+|---|---|---|---|---|---|---|---|---|
+|**2022-02-24 17:13:33**|**2022-02-24 17:13:33**|**Is Neuro-Symbolic AI Meeting its Promise in Natural Language Processing?   A Structured Review**|Kyle Hamilton et.al.(4)|[2202.12205v1](http://arxiv.org/abs/2202.12205v1)|[gotoRead](http://arxiv.org/pdf/2202.12205v1)|**[link](https://github.com/kyleiwaniec/neuro-symbolic-ai-systematic-review)**|cs.AI, cs.CL, cs.LG|null|
+|**2022-02-24 16:26:23**|**2022-02-24 16:26:23**|**Quantum Deep Reinforcement Learning for Robot Navigation Tasks**|Dirk Heimann et.al.(4)|[2202.12180v1](http://arxiv.org/abs/2202.12180v1)|[gotoRead](http://arxiv.org/pdf/2202.12180v1)|null|cs.RO, cs.LG, quant-ph|null|
+|**2022-02-24 16:15:51**|**2022-02-24 16:15:51**|**Collaborative Training of Heterogeneous Reinforcement Learning Agents in   Environments with Sparse Rewards: What and When to Share?**|Alain Andres et.al.(3)|[2202.12174v1](http://arxiv.org/abs/2202.12174v1)|[gotoRead](http://arxiv.org/pdf/2202.12174v1)|null|cs.LG, cs.AI|null|
+|**2022-02-23 18:47:53**|**2022-02-23 18:47:53**|**A Class of Geometric Structures in Transfer Learning: Minimax Bounds and   Optimality**|Xuhui Zhang et.al.(4)|[2202.11685v1](http://arxiv.org/abs/2202.11685v1)|[gotoRead](http://arxiv.org/pdf/2202.11685v1)|null|cs.LG, stat.ME, stat.ML|null|
+|**2022-02-23 15:15:59**|**2022-02-23 15:15:59**|**Easily generating and absorbing waves using machine learning**|Yulin Xie et.al.(2)|[2202.11560v1](http://arxiv.org/abs/2202.11560v1)|[gotoRead](http://arxiv.org/pdf/2202.11560v1)|null|physics.flu-dyn, physics.comp-ph|null|
+|**2022-02-23 05:33:21**|**2022-02-23 05:33:21**|**Absolute Zero-Shot Learning**|Rui Gao et.al.(9)|[2202.11319v1](http://arxiv.org/abs/2202.11319v1)|[gotoRead](http://arxiv.org/pdf/2202.11319v1)|null|cs.CV, cs.CR, cs.LG|null|
+|**2022-02-23 03:57:59**|**2022-02-23 03:57:59**|**Continual learning-based probabilistic slow feature analysis for   multimode dynamic process monitoring**|Jingxin Zhang et.al.(4)|[2202.11295v1](http://arxiv.org/abs/2202.11295v1)|[gotoRead](http://arxiv.org/pdf/2202.11295v1)|null|cs.LG, eess.SP|null|
+|**2022-02-22 22:31:57**|**2022-02-22 22:31:57**|**Indiscriminate Poisoning Attacks on Unsupervised Contrastive Learning**|Hao He et.al.(3)|[2202.11202v1](http://arxiv.org/abs/2202.11202v1)|[gotoRead](http://arxiv.org/pdf/2202.11202v1)|null|cs.LG, cs.AI, cs.CR, cs.CV|null|
+|**2022-02-22 21:47:48**|**2022-02-22 21:47:48**|**SIPOMDPLite-Net: Lightweight, Self-Interested Learning and Planning in   POSGs with Sparse Interactions**|Gengyu Zhang et.al.(2)|[2202.11188v1](http://arxiv.org/abs/2202.11188v1)|[gotoRead](http://arxiv.org/pdf/2202.11188v1)|null|cs.MA|null|
+|**2022-02-22 20:44:04**|**2022-02-22 20:44:04**|**Multi-fidelity reinforcement learning framework for shape optimization**|Sahil Bhola et.al.(4)|[2202.11170v1](http://arxiv.org/abs/2202.11170v1)|[gotoRead](http://arxiv.org/pdf/2202.11170v1)|null|cs.LG, physics.flu-dyn|null|
