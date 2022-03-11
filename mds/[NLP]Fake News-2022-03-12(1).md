@@ -1,0 +1,13 @@
+## [NLP]Fake News 
+
+### Fake News
+
+| submit | update | title | author | abs | PDF | code | cates | journal |
+|---|---|---|---|---|---|---|---|---|
+|**2022-03-10 14:24:19**|**2022-03-10 14:24:19**|**Faking Fake News for Real Fake News Detection: Propaganda-loaded   Training Data Generation**|Kung-Hsiang Huang et.al.(5)|[2203.05386v1](http://arxiv.org/abs/2203.05386v1)|[gotoRead](http://arxiv.org/pdf/2203.05386v1)|null|cs.CL|null|
+|**2022-03-09 18:17:25**|**2022-03-09 18:17:25**|**DISCO: Comprehensive and Explainable Disinformation Detection**|Dongqi Fu et.al.(5)|[2203.04928v1](http://arxiv.org/abs/2203.04928v1)|[gotoRead](http://arxiv.org/pdf/2203.04928v1)|**[link](https://github.com/dongqifu/disco)**|cs.LG, cs.IR|null|
+|**2022-03-06 21:41:35**|**2022-03-06 21:41:35**|**Finding Clusters of Similar-minded People on Twitter Regarding the   Covid-19 Pandemic**|Philipp Kappus et.al.(2)|[2203.04764v1](http://arxiv.org/abs/2203.04764v1)|[gotoRead](http://arxiv.org/pdf/2203.04764v1)|null|cs.SI|null|
+|**2022-03-04 19:00:04**|**2022-03-04 19:00:04**|**Purely Virtual Particles in Quantum Gravity, Inflationary Cosmology and   Collider Physics**|Damiano Anselmi et.al.(1)|[2203.02516v1](http://arxiv.org/abs/2203.02516v1)|[gotoRead](http://arxiv.org/pdf/2203.02516v1)|null|hep-th, gr-qc, hep-ph|Symmetry 2022, 14(3), 521|
+|**2022-03-04 16:01:11**|**2022-03-10 04:10:12**|**Targeted Data Poisoning Attack on News Recommendation System by Content   Perturbation**|Xudong Zhang et.al.(4)|[2203.03560v2](http://arxiv.org/abs/2203.03560v2)|[gotoRead](http://arxiv.org/pdf/2203.03560v2)|null|cs.CR, cs.AI, cs.IR, cs.LG|null|
+|**2022-03-04 11:29:28**|**2022-03-04 11:29:28**|**Detecting GAN-generated Images by Orthogonal Training of Multiple CNNs**|Sara Mandelli et.al.(4)|[2203.02246v1](http://arxiv.org/abs/2203.02246v1)|[gotoRead](http://arxiv.org/pdf/2203.02246v1)|**[link](https://github.com/polimi-ispl/gan-image-detection)**|cs.CV, cs.AI|null|
+|**2022-03-03 13:53:27**|**2022-03-03 13:53:27**|**Detecting High-Quality GAN-Generated Face Images using Neural Networks**|Ehsan Nowroozi et.al.(3)|[2203.01716v1](http://arxiv.org/abs/2203.01716v1)|[gotoRead](http://arxiv.org/pdf/2203.01716v1)|null|cs.CR, cs.CV, cs.LG, eess.IV|null|
