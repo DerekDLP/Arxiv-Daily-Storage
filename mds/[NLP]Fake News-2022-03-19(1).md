@@ -1,0 +1,9 @@
+## [NLP]Fake News 
+
+### Fake News
+
+| submit | update | title | author | abs | PDF | code | cates | journal |
+|---|---|---|---|---|---|---|---|---|
+|**2022-03-16 03:40:34**|**2022-03-16 03:40:34**|**Are you aware of what you are watching? Role of machine heuristic in   online content recommendations**|Soyoung Oh et.al.(2)|[2203.08373v1](http://arxiv.org/abs/2203.08373v1)|[gotoRead](http://arxiv.org/pdf/2203.08373v1)|null|cs.HC|null|
+|**2022-03-15 08:54:36**|**2022-03-15 08:54:36**|**Evaluating BERT-based Pre-training Language Models for Detecting   Misinformation**|Rini Anggrainingsih et.al.(3)|[2203.07731v1](http://arxiv.org/abs/2203.07731v1)|[gotoRead](http://arxiv.org/pdf/2203.07731v1)|null|cs.CL, cs.LG|null|
+|**2022-03-11 10:02:12**|**2022-03-11 10:02:12**|**Towards Analyzing the Bias of News Recommender Systems Using Sentiment   and Stance Detection**|Mehwish Alam et.al.(6)|[2203.05824v1](http://arxiv.org/abs/2203.05824v1)|[gotoRead](http://arxiv.org/pdf/2203.05824v1)|null|cs.IR|null|
