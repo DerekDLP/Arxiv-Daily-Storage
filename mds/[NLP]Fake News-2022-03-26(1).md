@@ -1,0 +1,12 @@
+## [NLP]Fake News 
+
+### Fake News
+
+| submit | update | title | author | abs | PDF | code | cates | journal |
+|---|---|---|---|---|---|---|---|---|
+|**2022-03-22 12:41:42**|**2022-03-22 12:41:42**|**Are You Misinformed? A Study of Covid-Related Fake News in Bengali on   Facebook**|Protik Bose Pranto et.al.(5)|[2203.11669v1](http://arxiv.org/abs/2203.11669v1)|[gotoRead](http://arxiv.org/pdf/2203.11669v1)|null|cs.CL, cs.LG, cs.SI|null|
+|**2022-03-22 06:33:01**|**2022-03-22 06:33:01**|**Approaches for Improving the Performance of Fake News Detection in   Bangla: Imbalance Handling and Model Stacking**|Md Muzakker Hossain et.al.(5)|[2203.11486v1](http://arxiv.org/abs/2203.11486v1)|[gotoRead](http://arxiv.org/pdf/2203.11486v1)|null|cs.LG, cs.CL|null|
+|**2022-03-21 11:10:46**|**2022-03-21 11:10:46**|**Zoom Out and Observe: News Environment Perception for Fake News   Detection**|Qiang Sheng et.al.(6)|[2203.10885v1](http://arxiv.org/abs/2203.10885v1)|[gotoRead](http://arxiv.org/pdf/2203.10885v1)|**[link](https://github.com/ictmcg/news-environment-perception)**|cs.CL, cs.CY, cs.SI|null|
+|**2022-03-20 14:26:20**|**2022-03-20 14:26:20**|**Who will share Fake-News on Twitter? Psycholinguistic cues in online   post histories discriminate Between actors in the misinformation ecosystem**|Verena Schoenmueller et.al.(3)|[2203.10560v1](http://arxiv.org/abs/2203.10560v1)|[gotoRead](http://arxiv.org/pdf/2203.10560v1)|null|cs.CY, cs.CL, cs.SI|null|
+|**2022-03-18 13:24:03**|**2022-03-18 13:24:03**|**Fake News Detection Using Majority Voting Technique**|Dharmaraj R. Patil et.al.(1)|[2203.09936v1](http://arxiv.org/abs/2203.09936v1)|[gotoRead](http://arxiv.org/pdf/2203.09936v1)|null|cs.CL|null|
+|**2022-03-16 03:40:34**|**2022-03-16 03:40:34**|**Are you aware of what you are watching? Role of machine heuristic in   online content recommendations**|Soyoung Oh et.al.(2)|[2203.08373v1](http://arxiv.org/abs/2203.08373v1)|[gotoRead](http://arxiv.org/pdf/2203.08373v1)|null|cs.HC|null|
