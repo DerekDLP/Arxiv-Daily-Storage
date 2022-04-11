@@ -1,0 +1,12 @@
+## [NLP]Fake News 
+
+### Fake News
+
+| submit | update | title | author | abs | PDF | code | cates | journal |
+|---|---|---|---|---|---|---|---|---|
+|**2022-04-06 20:00:37**|**2022-04-06 20:00:37**|**The 2021 Urdu Fake News Detection Task using Supervised Machine Learning   and Feature Combinations**|Muhammad Humayoun et.al.(1)|[2204.03064v1](http://arxiv.org/abs/2204.03064v1)|[gotoRead](http://arxiv.org/pdf/2204.03064v1)|null|cs.CL|null|
+|**2022-04-06 10:42:39**|**2022-04-06 10:42:39**|**Annotation-Scheme Reconstruction for "Fake News" and Japanese Fake News   Dataset**|Taichi Murayama et.al.(5)|[2204.02718v1](http://arxiv.org/abs/2204.02718v1)|[gotoRead](http://arxiv.org/pdf/2204.02718v1)|null|cs.CL, cs.CY|null|
+|**2022-04-06 08:58:03**|**2022-04-06 08:58:03**|**Detecting Outlier Patterns with Query-based Artificially Generated   Searching Conditions**|Shuo Yu et.al.(6)|[2204.02676v1](http://arxiv.org/abs/2204.02676v1)|[gotoRead](http://arxiv.org/pdf/2204.02676v1)|null|cs.SI|null|
+|**2022-04-06 08:55:35**|**2022-04-06 08:55:35**|**Faster-TAD: Towards Temporal Action Detection with Proposal Generation   and Classification in a Unified Network**|Shimin Chen et.al.(5)|[2204.02674v1](http://arxiv.org/abs/2204.02674v1)|[gotoRead](http://arxiv.org/pdf/2204.02674v1)|null|cs.CV|null|
+|**2022-04-04 21:00:55**|**2022-04-04 21:00:55**|**Applying Automatic Text Summarization for Fake News Detection**|Philipp Hartl et.al.(2)|[2204.01841v1](http://arxiv.org/abs/2204.01841v1)|[gotoRead](http://arxiv.org/pdf/2204.01841v1)|**[link](https://github.com/phhartl/lrec_2022)**|cs.CL, cs.AI|null|
+|**2022-04-01 14:14:46**|**2022-04-01 14:14:46**|**Evaluation of Fake News Detection with Knowledge-Enhanced Language   Models**|Chenxi Whitehouse et.al.(4)|[2204.00458v1](http://arxiv.org/abs/2204.00458v1)|[gotoRead](http://arxiv.org/pdf/2204.00458v1)|**[link](https://github.com/chenxwh/fake-news-detection)**|cs.CL|null|
