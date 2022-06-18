@@ -1,0 +1,14 @@
+## [NLP]Fake News 
+
+### Fake News
+
+| submit | update | title | author | abs | PDF | code | cates | journal |
+|---|---|---|---|---|---|---|---|---|
+|**2022-06-15 13:42:55**|**2022-06-15 13:42:55**|**BaIT: Barometer for Information Trustworthiness**|Oisín Nolan et.al.(3)|[2206.07535v1](http://arxiv.org/abs/2206.07535v1)|[gotoRead](http://arxiv.org/pdf/2206.07535v1)|null|cs.LG, cs.CL|null|
+|**2022-06-15 07:26:27**|**2022-06-15 07:26:27**|**ETMA: Efficient Transformer Based Multilevel Attention framework for   Multimodal Fake News Detection**|Ashima Yadav et.al.(4)|[2206.07331v1](http://arxiv.org/abs/2206.07331v1)|[gotoRead](http://arxiv.org/pdf/2206.07331v1)|null|cs.MM|null|
+|**2022-06-14 20:57:23**|**2022-06-14 20:57:23**|**Towards Goal, Feasibility, and Diversity-Oriented Deep Generative Models   in Design**|Lyle Regenwetter et.al.(2)|[2206.07170v1](http://arxiv.org/abs/2206.07170v1)|[gotoRead](http://arxiv.org/pdf/2206.07170v1)|null|cs.LG|null|
+|**2022-06-12 21:00:01**|**2022-06-12 21:00:01**|**Crilin: A CRystal calorImeter with Longitudinal InformatioN for a future   Muon Collider**|S. Ceravolo et.al.(12)|[2206.05838v1](http://arxiv.org/abs/2206.05838v1)|[gotoRead](http://arxiv.org/pdf/2206.05838v1)|null|physics.ins-det, hep-ex|null|
+|**2022-06-12 14:06:55**|**2022-06-12 14:06:55**|**Multimodal Fake News Detection with Adaptive Unimodal Representation   Aggregation**|Qichao Ying et.al.(5)|[2206.05741v1](http://arxiv.org/abs/2206.05741v1)|[gotoRead](http://arxiv.org/pdf/2206.05741v1)|null|cs.CV|null|
+|**2022-06-10 04:42:00**|**2022-06-14 05:16:10**|**Ask to Know More: Generating Counterfactual Explanations for Fake Claims**|Shih-Chieh Dai et.al.(4)|[2206.04869v2](http://arxiv.org/abs/2206.04869v2)|[gotoRead](http://arxiv.org/pdf/2206.04869v2)|**[link](https://github.com/yilihsu/asktoknowmore)**|cs.CL|null|
+|**2022-06-10 01:30:15**|**2022-06-10 01:30:15**|**Transformer-Graph Neural Network with Global-Local Attention for   Multimodal Rumour Detection with Knowledge Distillation**|Tsun-hin Cheung et.al.(2)|[2206.04832v1](http://arxiv.org/abs/2206.04832v1)|[gotoRead](http://arxiv.org/pdf/2206.04832v1)|null|cs.MM, cs.SI|null|
+|**2022-06-08 18:33:48**|**2022-06-08 18:33:48**|**Spatial Games of Fake News**|Matthew I Jones et.al.(3)|[2206.04118v1](http://arxiv.org/abs/2206.04118v1)|[gotoRead](http://arxiv.org/pdf/2206.04118v1)|null|physics.soc-ph, cs.SI|null|
