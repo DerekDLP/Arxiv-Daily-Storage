@@ -1,0 +1,10 @@
+## [NLP]Fake News 
+
+### Fake News
+
+| submit | update | title | author | abs | PDF | code | cates | journal |
+|---|---|---|---|---|---|---|---|---|
+|**2022-07-04 22:27:57**|**2022-07-04 22:27:57**|**Domain-Independent Deception: Definition, Taxonomy and the Linguistic   Cues Debate**|Rakesh M. Verma et.al.(4)|[2207.01738v1](http://arxiv.org/abs/2207.01738v1)|[gotoRead](http://arxiv.org/pdf/2207.01738v1)|null|cs.CR, cs.CY, K.6.5|null|
+|**2022-07-04 10:05:02**|**2022-07-04 10:05:02**|**Optimal control in opinion dynamics models: towards a unified framework**|Ivan V. Kozitsin et.al.(1)|[2207.01300v1](http://arxiv.org/abs/2207.01300v1)|[gotoRead](http://arxiv.org/pdf/2207.01300v1)|null|physics.soc-ph, cs.SY, eess.SY, math.DS|null|
+|**2022-06-28 11:40:17**|**2022-06-28 11:40:17**|**AS-IntroVAE: Adversarial Similarity Distance Makes Robust IntroVAE**|Changjie Lu et.al.(5)|[2206.13903v1](http://arxiv.org/abs/2206.13903v1)|[gotoRead](http://arxiv.org/pdf/2206.13903v1)|null|eess.IV, cs.CV|null|
+|**2022-06-27 12:30:44**|**2022-06-27 12:30:44**|**Attack Agnostic Dataset: Towards Generalization and Stabilization of   Audio DeepFake Detection**|Piotr Kawa et.al.(3)|[2206.13979v1](http://arxiv.org/abs/2206.13979v1)|[gotoRead](http://arxiv.org/pdf/2206.13979v1)|**[link](https://github.com/piotrkawa/attack-agnostic-dataset)**|cs.SD, cs.LG|null|
