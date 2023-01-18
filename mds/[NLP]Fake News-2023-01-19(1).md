@@ -1,0 +1,8 @@
+## [NLP]Fake News 
+
+### Fake News
+
+| submit | update | title | author | abs | PDF | code | cates | journal |
+|---|---|---|---|---|---|---|---|---|
+|**2023-01-16 15:39:10**|**2023-01-16 15:39:10**|**Explicit Birational Geometry of Fano threefold complete intersections**|Tiago Duarte Guerreiro et.al.(1)|[2301.06481v1](http://arxiv.org/abs/2301.06481v1)|[gotoRead](http://arxiv.org/pdf/2301.06481v1)|null|math.AG|null|
+|**2023-01-11 07:31:47**|**2023-01-11 07:31:47**|**A Meta Path-based Approach for Rumor Detection on Social Media**|Bita Azarijoo et.al.(3)|[2301.04341v1](http://arxiv.org/abs/2301.04341v1)|[gotoRead](http://arxiv.org/pdf/2301.04341v1)|null|cs.SI, cs.LG|null|
