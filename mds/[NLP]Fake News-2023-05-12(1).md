@@ -1,0 +1,12 @@
+## [NLP]Fake News 
+
+### Fake News
+
+| submit | update | title | author | abs | PDF | code | cates | journal |
+|---|---|---|---|---|---|---|---|---|
+|**2023-05-10 07:30:23**|**2023-05-10 07:30:23**|**Mover: Mask and Recovery based Facial Part Consistency Aware Method for   Deepfake Video Detection**|Juan Hu et.al.(7)|[2305.05943v1](http://arxiv.org/abs/2305.05943v1)|[gotoRead](http://arxiv.org/pdf/2305.05943v1)|null|cs.MM|null|
+|**2023-05-09 00:31:23**|**2023-05-09 00:31:23**|**Modeling Viral Information Spreading via Directed Acyclic Graph   Diffusion**|Chinthaka Dinesh et.al.(5)|[2305.05107v1](http://arxiv.org/abs/2305.05107v1)|[gotoRead](http://arxiv.org/pdf/2305.05107v1)|null|cs.SI, eess.SP|null|
+|**2023-05-05 08:25:07**|**2023-05-05 08:25:07**|**Detecting and Reasoning of Deleted Tweets before they are Posted**|Hamdy Mubarak et.al.(4)|[2305.04927v1](http://arxiv.org/abs/2305.04927v1)|[gotoRead](http://arxiv.org/pdf/2305.04927v1)|null|cs.CL, cs.AI, cs.CY, 68T50, F.2.2; I.2.7|null|
+|**2023-05-05 07:40:41**|**2023-05-05 07:40:41**|**QCRI at SemEval-2023 Task 3: News Genre, Framing and Persuasion   Techniques Detection using Multilingual Models**|Maram Hasanain et.al.(5)|[2305.03336v1](http://arxiv.org/abs/2305.03336v1)|[gotoRead](http://arxiv.org/pdf/2305.03336v1)|null|cs.CL, cs.AI, cs.CY, 68T50, F.2.2; I.2.7|null|
+|**2023-05-05 01:28:52**|**2023-05-05 01:28:52**|**Review and Assessment of Digital Twin--Oriented Social Network   Simulators**|Jiaqi Wen et.al.(3)|[2305.03234v1](http://arxiv.org/abs/2305.03234v1)|[gotoRead](http://arxiv.org/pdf/2305.03234v1)|null|cs.SI|null|
+|**2023-05-01 18:00:54**|**2023-05-01 18:00:54**|**Deception Detection with Feature-Augmentation by soft Domain Transfer**|Sadat Shahriar et.al.(3)|[2305.01011v1](http://arxiv.org/abs/2305.01011v1)|[gotoRead](http://arxiv.org/pdf/2305.01011v1)|null|cs.CL, cs.LG|null|
