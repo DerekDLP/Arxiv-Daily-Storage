@@ -1,0 +1,12 @@
+## [NLP]Fake News 
+
+### Fake News
+
+| submit | update | title | author | abs | PDF | code | cates | journal |
+|---|---|---|---|---|---|---|---|---|
+|**2023-08-22 17:19:13**|**2023-08-22 17:19:13**|**On the Robustness of Democratic Electoral Processes to Computational   Propaganda**|Glory M. Givi et.al.(4)|[2308.11569v1](http://arxiv.org/abs/2308.11569v1)|[gotoRead](http://arxiv.org/pdf/2308.11569v1)|null|physics.soc-ph|null|
+|**2023-08-21 16:44:50**|**2023-08-21 16:44:50**|**Election Manipulation in Social Networks with Single-Peaked Agents**|Vincenzo Auletta et.al.(3)|[2308.10845v1](http://arxiv.org/abs/2308.10845v1)|[gotoRead](http://arxiv.org/pdf/2308.10845v1)|null|cs.GT, cs.MA, cs.SI|null|
+|**2023-08-21 13:39:04**|**2023-08-23 13:56:52**|**Backdooring Textual Inversion for Concept Censorship**|Yutong Wu et.al.(4)|[2308.10718v2](http://arxiv.org/abs/2308.10718v2)|[gotoRead](http://arxiv.org/pdf/2308.10718v2)|null|cs.CR, cs.CV|null|
+|**2023-08-20 14:06:34**|**2023-08-20 14:06:34**|**Turning Waste into Wealth: Leveraging Low-Quality Samples for Enhancing   Continuous Conditional Generative Adversarial Networks**|Xin Ding et.al.(3)|[2308.10273v1](http://arxiv.org/abs/2308.10273v1)|[gotoRead](http://arxiv.org/pdf/2308.10273v1)|null|cs.CV, cs.LG|null|
+|**2023-08-15 23:49:07**|**2023-08-15 23:49:07**|**Freshness or Accuracy, Why Not Both? Addressing Delayed Feedback via   Dynamic Graph Neural Networks**|Xiaolin Zheng et.al.(5)|[2308.08071v1](http://arxiv.org/abs/2308.08071v1)|[gotoRead](http://arxiv.org/pdf/2308.08071v1)|null|cs.LG, cs.AI|null|
+|**2023-08-15 23:22:37**|**2023-08-15 23:22:37**|**Improving Detection of ChatGPT-Generated Fake Science Using Real   Publication Text: Introducing xFakeBibs a Supervised-Learning Network   Algorithm**|Ahmed Abdeen Hamed et.al.(2)|[2308.11767v1](http://arxiv.org/abs/2308.11767v1)|[gotoRead](http://arxiv.org/pdf/2308.11767v1)|null|cs.CL, cs.IR, I.2|null|
