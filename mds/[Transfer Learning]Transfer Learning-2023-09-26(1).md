@@ -1,0 +1,16 @@
+## [Transfer Learning]Transfer Learning 
+
+### Transfer Learning
+
+| submit | update | title | author | abs | PDF | code | cates | journal |
+|---|---|---|---|---|---|---|---|---|
+|**2023-09-22 13:37:19**|**2023-09-22 13:37:19**|**Domain Adaptation for Arabic Machine Translation: The Case of Financial   Texts**|Emad A. Alghamdi et.al.(3)|[2309.12863v1](http://arxiv.org/abs/2309.12863v1)|[gotoRead](http://arxiv.org/pdf/2309.12863v1)|null|cs.CL, cs.AI|null|
+|**2023-09-22 13:29:14**|**2023-09-22 13:29:14**|**Cross-Modal Translation and Alignment for Survival Analysis**|Fengtao Zhou et.al.(2)|[2309.12855v1](http://arxiv.org/abs/2309.12855v1)|[gotoRead](http://arxiv.org/pdf/2309.12855v1)|**[link](https://github.com/ft-zhou-zzz/cmta)**|eess.IV, cs.CV, cs.LG|null|
+|**2023-09-22 11:39:50**|**2023-09-22 11:39:50**|**Teacher-Student Reinforcement Learning for Mapless Navigation using a   Planetary Space Rover**|Anton Bjørndahl Mortensen et.al.(6)|[2309.12807v1](http://arxiv.org/abs/2309.12807v1)|[gotoRead](http://arxiv.org/pdf/2309.12807v1)|null|cs.RO|null|
+|**2023-09-22 10:09:09**|**2023-09-22 10:09:09**|**Reduce, Reuse, Recycle: Is Perturbed Data better than Other Language   augmentation for Low Resource Self-Supervised Speech Models**|Asad Ullah et.al.(3)|[2309.12763v1](http://arxiv.org/abs/2309.12763v1)|[gotoRead](http://arxiv.org/pdf/2309.12763v1)|null|eess.AS, cs.CL, cs.SD|null|
+|**2023-09-22 08:58:22**|**2023-09-22 08:58:22**|**H2O+: An Improved Framework for Hybrid Offline-and-Online RL with   Dynamics Gaps**|Haoyi Niu et.al.(10)|[2309.12716v1](http://arxiv.org/abs/2309.12716v1)|[gotoRead](http://arxiv.org/pdf/2309.12716v1)|null|cs.LG, cs.AI, cs.RO|null|
+|**2023-09-22 08:54:06**|**2023-09-22 08:54:06**|**Unsupervised Representations Improve Supervised Learning in Speech   Emotion Recognition**|Amirali Soltani Tehrani et.al.(3)|[2309.12714v1](http://arxiv.org/abs/2309.12714v1)|[gotoRead](http://arxiv.org/pdf/2309.12714v1)|null|eess.AS, cs.LG, cs.SD|null|
+|**2023-09-22 03:15:08**|**2023-09-22 03:15:08**|**Multiply Robust Federated Estimation of Targeted Average Treatment   Effects**|Larry Han et.al.(3)|[2309.12600v1](http://arxiv.org/abs/2309.12600v1)|[gotoRead](http://arxiv.org/pdf/2309.12600v1)|null|stat.ML, cs.LG, math.ST, stat.ME, stat.TH|null|
+|**2023-09-21 23:19:16**|**2023-09-21 23:19:16**|**Trip Planning for Autonomous Vehicles with Wireless Data Transfer Needs   Using Reinforcement Learning**|Yousef AlSaqabi et.al.(2)|[2309.12534v1](http://arxiv.org/abs/2309.12534v1)|[gotoRead](http://arxiv.org/pdf/2309.12534v1)|null|cs.LG, cs.SY, eess.SY|2022 IEEE 19th International Conference on Mobile Ad Hoc and Smart   Systems (MASS), Denver, CO, USA, 2022, pp. 10-17|
+|**2023-09-21 21:12:32**|**2023-09-21 21:12:32**|**High-Dimensional Controller Tuning through Latent Representations**|Alireza Sarmadi et.al.(3)|[2309.12487v1](http://arxiv.org/abs/2309.12487v1)|[gotoRead](http://arxiv.org/pdf/2309.12487v1)|null|eess.SY, cs.SY|null|
+|**2023-09-21 17:59:53**|**2023-09-21 17:59:53**|**TinyCLIP: CLIP Distillation via Affinity Mimicking and Weight   Inheritance**|Kan Wu et.al.(13)|[2309.12314v1](http://arxiv.org/abs/2309.12314v1)|[gotoRead](http://arxiv.org/pdf/2309.12314v1)|null|cs.CV|null|
