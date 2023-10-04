@@ -1,0 +1,16 @@
+## [NLP]Fake News 
+
+### Fake News
+
+| submit | update | title | author | abs | PDF | code | cates | journal |
+|---|---|---|---|---|---|---|---|---|
+|**2023-10-03 17:43:24**|**2023-10-03 17:43:24**|**MIS-AVioDD: Modality Invariant and Specific Representation for   Audio-Visual Deepfake Detection**|Vinaya Sree Katamneni et.al.(2)|[2310.02234v1](http://arxiv.org/abs/2310.02234v1)|[gotoRead](http://arxiv.org/pdf/2310.02234v1)|null|cs.CV, cs.AI, cs.LG|null|
+|**2023-10-02 00:48:51**|**2023-10-02 00:48:51**|**Necessary and Sufficient Watermark for Large Language Models**|Yuki Takezawa et.al.(5)|[2310.00833v1](http://arxiv.org/abs/2310.00833v1)|[gotoRead](http://arxiv.org/pdf/2310.00833v1)|null|cs.CL, cs.LG|null|
+|**2023-09-28 13:19:43**|**2023-09-28 13:19:43**|**Prompt-and-Align: Prompt-Based Social Alignment for Few-Shot Fake News   Detection**|Jiaying Wu et.al.(5)|[2309.16424v1](http://arxiv.org/abs/2309.16424v1)|[gotoRead](http://arxiv.org/pdf/2309.16424v1)|**[link](https://github.com/jiayingwu19/prompt-and-align)**|cs.CL, cs.AI, cs.SI|null|
+|**2023-09-28 09:56:55**|**2023-09-28 09:56:55**|**Does Explanation Matter? An Exploratory Study on the Effects of Covid 19   Misinformation Warning Flags on Social Media**|Dipto Barman et.al.(2)|[2309.16305v1](http://arxiv.org/abs/2309.16305v1)|[gotoRead](http://arxiv.org/pdf/2309.16305v1)|null|cs.HC, cs.SI, physics.soc-ph|null|
+|**2023-09-28 03:13:09**|**2023-09-28 03:13:09**|**UVL: A Unified Framework for Video Tampering Localization**|Pengfei Pei et.al.(4)|[2309.16126v1](http://arxiv.org/abs/2309.16126v1)|[gotoRead](http://arxiv.org/pdf/2309.16126v1)|null|cs.CV, cs.CR|null|
+|**2023-09-26 14:36:19**|**2023-09-26 14:36:19**|**Interactively Learning Social Media Representations Improves News Source   Factuality Detection**|Nikhil Mehta et.al.(2)|[2309.14966v1](http://arxiv.org/abs/2309.14966v1)|[gotoRead](http://arxiv.org/pdf/2309.14966v1)|**[link](https://github.com/hockeybro12/fake_news_interactive_detection)**|cs.CL, cs.AI, cs.SI|null|
+|**2023-09-26 10:02:21**|**2023-09-26 10:02:21**|**Fine-tuning and aligning question answering models for complex   information extraction tasks**|Matthias Engelbach et.al.(5)|[2309.14805v1](http://arxiv.org/abs/2309.14805v1)|[gotoRead](http://arxiv.org/pdf/2309.14805v1)|null|cs.CL, cs.AI|null|
+|**2023-09-25 15:05:46**|**2023-09-25 15:05:46**|**Detecting and Grounding Multi-Modal Media Manipulation and Beyond**|Rui Shao et.al.(5)|[2309.14203v1](http://arxiv.org/abs/2309.14203v1)|[gotoRead](http://arxiv.org/pdf/2309.14203v1)|**[link](https://github.com/rshaojimmy/multimodal-deepfake)**|cs.CV|null|
+|**2023-09-23 08:40:34**|**2023-09-23 08:40:34**|**Multilevel User Credibility Assessment in Social Networks**|Mohammad Moradi et.al.(2)|[2309.13305v1](http://arxiv.org/abs/2309.13305v1)|[gotoRead](http://arxiv.org/pdf/2309.13305v1)|**[link](https://github.com/mohammad-moradi/multicred)**|cs.SI|null|
+|**2023-09-21 16:47:30**|**2023-09-21 16:47:30**|**Bad Actor, Good Advisor: Exploring the Role of Large Language Models in   Fake News Detection**|Beizhe Hu et.al.(7)|[2309.12247v1](http://arxiv.org/abs/2309.12247v1)|[gotoRead](http://arxiv.org/pdf/2309.12247v1)|**[link](https://github.com/ictmcg/arg)**|cs.CL, cs.AI, cs.CY|null|
