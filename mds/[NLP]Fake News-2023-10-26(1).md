@@ -1,0 +1,13 @@
+## [NLP]Fake News 
+
+### Fake News
+
+| submit | update | title | author | abs | PDF | code | cates | journal |
+|---|---|---|---|---|---|---|---|---|
+|**2023-10-24 15:34:30**|**2023-10-24 15:34:30**|**ABKD: Graph Neural Network Compression with Attention-Based Knowledge   Distillation**|Anshul Ahluwalia et.al.(6)|[2310.15938v1](http://arxiv.org/abs/2310.15938v1)|[gotoRead](http://arxiv.org/pdf/2310.15938v1)|null|cs.LG|null|
+|**2023-10-23 18:11:32**|**2023-10-23 18:11:32**|**Towards Possibilities & Impossibilities of AI-generated Text Detection:   A Survey**|Soumya Suvra Ghosal et.al.(6)|[2310.15264v1](http://arxiv.org/abs/2310.15264v1)|[gotoRead](http://arxiv.org/pdf/2310.15264v1)|null|cs.CL, cs.AI|null|
+|**2023-10-23 06:03:55**|**2023-10-23 06:03:55**|**Online Auditing of Information Flow**|Mor Oren-Loberman et.al.(3)|[2310.14595v1](http://arxiv.org/abs/2310.14595v1)|[gotoRead](http://arxiv.org/pdf/2310.14595v1)|null|cs.LG, cs.SI|null|
+|**2023-10-21 02:11:39**|**2023-10-21 02:11:39**|**COVIDFakeExplainer: An Explainable Machine Learning based Web   Application for Detecting COVID-19 Fake News**|Dylan Warman et.al.(2)|[2310.13890v1](http://arxiv.org/abs/2310.13890v1)|[gotoRead](http://arxiv.org/pdf/2310.13890v1)|null|cs.SI, cs.AI, cs.CY|null|
+|**2023-10-20 23:47:01**|**2023-10-20 23:47:01**|**Not all Fake News is Written: A Dataset and Analysis of Misleading Video   Headlines**|Yoo Yeon Sung et.al.(3)|[2310.13859v1](http://arxiv.org/abs/2310.13859v1)|[gotoRead](http://arxiv.org/pdf/2310.13859v1)|null|cs.CL, cs.CV|null|
+|**2023-10-20 01:55:10**|**2023-10-20 01:55:10**|**HierCas: Hierarchical Temporal Graph Attention Networks for Popularity   Prediction in Information Cascades**|Zhizhen Zhang et.al.(5)|[2310.13219v1](http://arxiv.org/abs/2310.13219v1)|[gotoRead](http://arxiv.org/pdf/2310.13219v1)|null|cs.SI, cs.AI|null|
+|**2023-10-19 19:01:26**|**2023-10-19 19:01:26**|**AVTENet: Audio-Visual Transformer-based Ensemble Network Exploiting   Multiple Experts for Video Deepfake Detection**|Ammarah Hashmi et.al.(5)|[2310.13103v1](http://arxiv.org/abs/2310.13103v1)|[gotoRead](http://arxiv.org/pdf/2310.13103v1)|null|cs.CV, cs.AI, cs.LG, cs.MM, cs.SD, eess.AS|null|
