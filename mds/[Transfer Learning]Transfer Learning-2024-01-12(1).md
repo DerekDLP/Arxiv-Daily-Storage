@@ -1,0 +1,16 @@
+## [Transfer Learning]Transfer Learning 
+
+### Transfer Learning
+
+| submit | update | title | author | abs | PDF | code | cates | journal |
+|---|---|---|---|---|---|---|---|---|
+|**2024-01-10 16:01:08**|**2024-01-10 16:01:08**|**Taming "data-hungry" reinforcement learning? Stability in continuous   state-action spaces**|Yaqi Duan et.al.(2)|[2401.05233v1](http://arxiv.org/abs/2401.05233v1)|[gotoRead](http://arxiv.org/pdf/2401.05233v1)|null|cs.LG, cs.IT, cs.SY, eess.SY, math.IT, math.OC, stat.ML|null|
+|**2024-01-10 15:52:35**|**2024-01-10 15:52:35**|**Learning effective good variables from physical data**|Giulio Barletta et.al.(3)|[2401.05226v1](http://arxiv.org/abs/2401.05226v1)|[gotoRead](http://arxiv.org/pdf/2401.05226v1)|**[link](https://github.com/giuliobarl/goodphysvariables)**|physics.data-an, cs.LG|null|
+|**2024-01-10 13:56:40**|**2024-01-10 13:56:40**|**MISS: A Generative Pretraining and Finetuning Approach for Med-VQA**|Jiawei Chen et.al.(5)|[2401.05163v1](http://arxiv.org/abs/2401.05163v1)|[gotoRead](http://arxiv.org/pdf/2401.05163v1)|null|cs.CV, cs.AI|null|
+|**2024-01-10 12:56:24**|**2024-01-10 12:56:24**|**Neural Population Learning beyond Symmetric Zero-sum Games**|Siqi Liu et.al.(6)|[2401.05133v1](http://arxiv.org/abs/2401.05133v1)|[gotoRead](http://arxiv.org/pdf/2401.05133v1)|null|cs.AI, cs.MA|null|
+|**2024-01-10 12:11:32**|**2024-01-10 12:11:32**|**Exploring the formation of gold/silver nanoalloys with gas-phase   synthesis and machine-learning assisted simulations**|Quentin Gromoff et.al.(9)|[2401.05106v1](http://arxiv.org/abs/2401.05106v1)|[gotoRead](http://arxiv.org/pdf/2401.05106v1)|null|cond-mat.mtrl-sci, cond-mat.mes-hall|Nanoscale, 2024,16, 384-393|
+|**2024-01-10 09:02:24**|**2024-01-10 09:02:24**|**Source-Free Cross-Modal Knowledge Transfer by Unleashing the Potential   of Task-Irrelevant Data**|Jinjing Zhu et.al.(3)|[2401.05014v1](http://arxiv.org/abs/2401.05014v1)|[gotoRead](http://arxiv.org/pdf/2401.05014v1)|null|cs.CV, cs.AI|null|
+|**2024-01-10 08:28:36**|**2024-01-10 08:28:36**|**Distributed Experimental Design Networks**|Yuanyuan Li et.al.(5)|[2401.04996v1](http://arxiv.org/abs/2401.04996v1)|[gotoRead](http://arxiv.org/pdf/2401.04996v1)|null|cs.NI|null|
+|**2024-01-10 04:55:24**|**2024-01-10 04:55:24**|**Relaxed Contrastive Learning for Federated Learning**|Seonguk Seo et.al.(4)|[2401.04928v1](http://arxiv.org/abs/2401.04928v1)|[gotoRead](http://arxiv.org/pdf/2401.04928v1)|null|cs.LG|null|
+|**2024-01-10 00:08:00**|**2024-01-10 00:08:00**|**LPAC: Learnable Perception-Action-Communication Loops with Applications   to Coverage Control**|Saurav Agarwal et.al.(5)|[2401.04855v1](http://arxiv.org/abs/2401.04855v1)|[gotoRead](http://arxiv.org/pdf/2401.04855v1)|null|cs.RO, cs.LG|null|
+|**2024-01-09 23:32:54**|**2024-01-09 23:32:54**|**Arabic Text Diacritization In The Age Of Transfer Learning: Token   Classification Is All You Need**|Abderrahman Skiredj et.al.(2)|[2401.04848v1](http://arxiv.org/abs/2401.04848v1)|[gotoRead](http://arxiv.org/pdf/2401.04848v1)|null|cs.CL|null|
