@@ -1,12 +1,12 @@
 NLP:
   Fake News:
-    historyCount: 1499
+    historyCount: 1504
     query: ((all:fake+OR+all:Fake)+AND+(all:News+OR+all:news))+OR+all:rumour+OR+all:Rumour
 Transfer Learning:
   Transfer Learning:
-    historyCount: 18819
+    historyCount: 18911
     query: ((all:transfer+OR+all:Transfer)+AND+(all:learning+OR+all:Learning))+OR+((all:transfer+OR+all:Transfer)+AND+(all:Machine+OR+all:machine)+AND+(all:learning+OR+all:Learning))
 Transformer:
   Transformer:
-    historyCount: 113961
+    historyCount: 114299
     query: all:Transformer+OR+all:transformer
