@@ -1,0 +1,14 @@
+## [NLP]Fake News 
+
+### Fake News
+
+| submit | update | title | author | abs | PDF | code | cates | journal |
+|---|---|---|---|---|---|---|---|---|
+|**2024-02-28 15:06:29**|**2024-02-28 15:06:29**|**TrustRate: A Decentralized Platform for Hijack-Resistant Anonymous   Reviews**|Rohit Dwivedula et.al.(7)|[2402.18386v1](http://arxiv.org/abs/2402.18386v1)|[gotoRead](http://arxiv.org/pdf/2402.18386v1)|null|cs.CR, cs.DC|null|
+|**2024-02-28 10:37:14**|**2024-02-29 05:11:05**|**HearHere: Mitigating Echo Chambers in News Consumption through an   AI-based Web System**|Youngseung Jeon et.al.(7)|[2402.18222v2](http://arxiv.org/abs/2402.18222v2)|[gotoRead](http://arxiv.org/pdf/2402.18222v2)|null|cs.HC, cs.AI|null|
+|**2024-02-28 09:10:25**|**2024-02-28 09:10:25**|**Challenges in Pre-Training Graph Neural Networks for Context-Based Fake   News Detection: An Evaluation of Current Strategies and Resource Limitations**|Gregor Donabauer et.al.(2)|[2402.18179v1](http://arxiv.org/abs/2402.18179v1)|[gotoRead](http://arxiv.org/pdf/2402.18179v1)|null|cs.CL|null|
+|**2024-02-27 14:10:34**|**2024-02-27 14:10:34**|**Note: Evolutionary Game Theory Focus Informational Health: The Cocktail   Party Effect Through Werewolfgame under Incomplete Information and ESS Search   Method Using Expected Gains of Repeated Dilemmas**|Yasuko Kawahata et.al.(1)|[2402.18598v1](http://arxiv.org/abs/2402.18598v1)|[gotoRead](http://arxiv.org/pdf/2402.18598v1)|null|physics.soc-ph, cs.AI|null|
+|**2024-02-27 08:49:30**|**2024-02-27 08:49:30**|**How we won BraTS 2023 Adult Glioma challenge? Just faking it! Enhanced   Synthetic Data Augmentation and Model Ensemble for brain tumour segmentation**|André Ferreira et.al.(7)|[2402.17317v1](http://arxiv.org/abs/2402.17317v1)|[gotoRead](http://arxiv.org/pdf/2402.17317v1)|null|eess.IV, cs.CV, cs.LG|null|
+|**2024-02-27 06:47:52**|**2024-02-27 06:47:52**|**Deep Learning-Based Speech and Vision Synthesis to Improve Phishing   Attack Detection through a Multi-layer Adaptive Framework**|Tosin Ige et.al.(3)|[2402.17249v1](http://arxiv.org/abs/2402.17249v1)|[gotoRead](http://arxiv.org/pdf/2402.17249v1)|null|cs.CR, cs.AI, cs.CV, cs.LG|null|
+|**2024-02-26 19:27:00**|**2024-02-26 19:27:00**|**Algorithmic Arbitrariness in Content Moderation**|Juan Felipe Gomez et.al.(4)|[2402.16979v1](http://arxiv.org/abs/2402.16979v1)|[gotoRead](http://arxiv.org/pdf/2402.16979v1)|null|cs.CY, cs.LG, cs.SI|null|
+|**2024-02-22 09:54:41**|**2024-02-22 09:54:41**|**Human-machine social systems**|Milena Tsvetkova et.al.(4)|[2402.14410v1](http://arxiv.org/abs/2402.14410v1)|[gotoRead](http://arxiv.org/pdf/2402.14410v1)|null|cs.SI, cs.CY, cs.HC, physics.soc-ph, A.1; C.2.4; H.1.2; J.4; K.4.0; K.6.0|null|
