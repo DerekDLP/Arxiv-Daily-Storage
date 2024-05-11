@@ -1,0 +1,11 @@
+## [NLP]Fake News 
+
+### Fake News
+
+| submit | update | title | author | abs | PDF | code | cates | journal |
+|---|---|---|---|---|---|---|---|---|
+|**2024-05-07 10:39:19**|**2024-05-07 10:39:19**|**Detecting music deepfakes is easy but actually hard**|Darius Afchar et.al.(3)|[2405.04181v1](http://arxiv.org/abs/2405.04181v1)|[gotoRead](http://arxiv.org/pdf/2405.04181v1)|**[link](https://github.com/deezer/deepfake-detector)**|cs.SD, cs.LG, eess.AS|null|
+|**2024-05-07 10:03:19**|**2024-05-07 10:03:19**|**LingML: Linguistic-Informed Machine Learning for Enhanced Fake News   Detection**|Jasraj Singh et.al.(5)|[2405.04165v1](http://arxiv.org/abs/2405.04165v1)|[gotoRead](http://arxiv.org/pdf/2405.04165v1)|null|cs.CL|null|
+|**2024-05-07 00:38:34**|**2024-05-07 00:38:34**|**A Roadmap for Multilingual, Multimodal Domain Independent Deception   Detection**|Dainis Boumber et.al.(3)|[2405.03920v1](http://arxiv.org/abs/2405.03920v1)|[gotoRead](http://arxiv.org/pdf/2405.03920v1)|null|cs.CL, cs.AI, cs.MM, I.2.6; I.2.7; I.2.10; K.4.4|Proc. SDM 2024, 396-399|
+|**2024-05-06 11:24:13**|**2024-05-06 11:24:13**|**Explainable Fake News Detection With Large Language Model via Defense   Among Competing Wisdom**|Bo Wang et.al.(7)|[2405.03371v1](http://arxiv.org/abs/2405.03371v1)|[gotoRead](http://arxiv.org/pdf/2405.03371v1)|**[link](https://github.com/wangbo9719/L-Defense_EFND)**|cs.CL|null|
+|**2024-04-30 15:22:19**|**2024-04-30 15:22:19**|**Fake it to make it: Using synthetic data to remedy the data shortage in   joint multimodal speech-and-gesture synthesis**|Shivam Mehta et.al.(7)|[2404.19622v1](http://arxiv.org/abs/2404.19622v1)|[gotoRead](http://arxiv.org/pdf/2404.19622v1)|null|cs.HC, cs.CV, cs.GR, cs.SD, eess.AS, 68T07 (Primary), 68T42 (Secondary), I.2.7; I.2.6; H.5|null|
